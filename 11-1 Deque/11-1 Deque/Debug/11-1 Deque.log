@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\C++\11-1 Deque\11-1 Deque\main.cpp(9,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\C++\11-1 Deque\11-1 Deque\main.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  11-1 Deque.vcxproj -> C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\C++\11-1 Deque\Debug\11-1 Deque.exe
